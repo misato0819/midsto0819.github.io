@@ -1,7 +1,7 @@
 h1{
 
   font-size: 1.75em;
-  color: #5a544b;
+  color: #332f2a;
   text-align: center;
 
 }
@@ -27,5 +27,11 @@ li{
 
   font-size: 1em;
   color: #5a544b;
+
+}
+a{
+
+  font-size: 1em;
+  color: #332f2a;
 
 }
